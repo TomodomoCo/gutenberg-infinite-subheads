@@ -1,4 +1,4 @@
-# Infinite Subheads
+# Gutenberg Infinite Subheads
 
 By default, Gutenberg limits you to one subhead per page/post. For long-form content that might have several sections, you may need multiple subheads.
 

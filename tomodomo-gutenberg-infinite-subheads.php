@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Tomodomo › Gutenberg › Infinite Subheads
+ * Plugin Name: Tomodomo › Gutenberg Infinite Subheads
  * Plugin URI: https://tomodomo.co/
  * Description: Insert as many core subhead blocks into your Gutenberg post as your heart desires
  * Author: Tomodomo
