@@ -1,0 +1,20 @@
+{
+  "name": "tomodomo/gutenberg-infinite-subheads",
+  "description": "Insert as many core subhead blocks into your Gutenberg post as your heart desires",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomodomo",
+      "email": "hello@tomodomo.co"
+    }
+  ],
+  "config": {
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.0"
+  }
+}
