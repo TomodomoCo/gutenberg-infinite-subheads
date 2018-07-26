@@ -1,13 +1,13 @@
 <?php
 /**
- * Plugin Name: Tomodomo › Gutenberg Infinite Subheads
+ * Plugin Name: Tomodomo › Gutenberg › Infinite Subheads
  * Plugin URI: https://tomodomo.co/
  * Description: Insert as many core subhead blocks into your Gutenberg post as your heart desires
  * Author: Tomodomo
  * Author URI: https://tomodomo.co/
  * Version: 1.0
  * Text Domain: infinite-subheads
- * License: Proprietary
+ * License: MIT
  */
 
 add_action('admin_enqueue_scripts', function () {

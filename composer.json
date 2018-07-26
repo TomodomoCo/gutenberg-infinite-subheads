@@ -9,11 +9,14 @@
       "email": "hello@tomodomo.co"
     }
   ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "config": {
     "sort-packages": true
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
+  "extra": {
+    "installer-name": "tomodomo-gutenberg-infinite-subheads"
+  },
   "require": {
     "php": "^7.0"
   }
